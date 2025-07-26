@@ -8,8 +8,6 @@ This leaderboard tracks contributors who have completed issues labeled as `level
 |----------|---------|---------|---------|-------------|
 
 
-| *No contributors yet* | - | - | - | - |
-
 | [@Peehu1308](https://github.com/Peehu1308) | 3 | 4 | 0 | 7 |
 | [@AlapatiSreeHarsha](https://github.com/AlapatiSreeHarsha) | 3 | 1 | 0 | 8 |
 | [@Copilot](https://github.com/Copilot) | 0 | 2 | 1 | 5 |
