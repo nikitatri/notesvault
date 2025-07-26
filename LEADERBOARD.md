@@ -7,6 +7,7 @@ This leaderboard tracks contributors who have completed issues labeled as `level
 | Username | Level 1 | Level 2 | Level 3 | PRs Merged |
 |----------|---------|---------|---------|-------------|
 
+
 | *No contributors yet* | - | - | - | - |
 
 | [@Peehu1308](https://github.com/Peehu1308) | 3 | 4 | 0 | 7 |
@@ -51,6 +52,8 @@ This leaderboard tracks contributors who have completed issues labeled as `level
 | [@Suhani1234-5](https://github.com/Suhani1234-5) | 0 | 1 | 0 | 0 |
 | [@Adil642](https://github.com/Adil642) | 0 | 1 | 0 | 0 |
 | [@aditikrishsharma](https://github.com/aditikrishsharma) | 0 | 1 | 0 | 0 |
+
+| *No contributors yet* | - | - | - | - |
 
 
 ---
